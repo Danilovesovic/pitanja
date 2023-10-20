@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "text": "What is the capital of France?",
+    "options": ["London", "Berlin", "Madrid", "Paris"],
+    "correct_answer": "Paris",
+    "points": 10,
+    "category": "Geography"
+  },
+  {
+    "id": 2,
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "correct_answer": "Mars",
+    "points": 10,
+    "category": "Astronomy"
+  },
+  {
+    "id": 3,
+    "text": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Lion"],
+    "correct_answer": "Blue Whale",
+    "points": 10,
+    "category": "Biology"
+  },
+  {
+    "id": 4,
+    "text": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "correct_answer": "William Shakespeare",
+    "points": 10,
+    "category": "Literature"
+  },
+  {
+    "id": 5,
+    "text": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correct_answer": "Carbon Dioxide",
+    "points": 10,
+    "category": "Biology"
+  },
+  {
+    "id": 6,
+    "text": "What is the currency of Japan?",
+    "options": ["Yen", "Dollar", "Euro", "Pound"],
+    "correct_answer": "Yen",
+    "points": 10,
+    "category": "Geography"
+  },
+  {
+    "id": 7,
+    "text": "What is the largest organ in the human body?",
+    "options": ["Heart", "Brain", "Skin", "Liver"],
+    "correct_answer": "Skin",
+    "points": 10,
+    "category": "Biology"
+  },
+  {
+    "id": 8,
+    "text": "Which famous scientist developed the theory of relativity?",
+    "options": ["Isaac Newton", "Marie Curie", "Albert Einstein", "Galileo Galilei"],
+    "correct_answer": "Albert Einstein",
+    "points": 10,
+    "category": "Science"
+  },
+  {
+    "id": 9,
+    "text": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Hg"],
+    "correct_answer": "Au",
+    "points": 10,
+    "category": "Chemistry"
+  },
+  {
+    "id": 10,
+    "text": "In which year did the Titanic sink?",
+    "options": ["1912", "1907", "1923", "1931"],
+    "correct_answer": "1912",
+    "points": 10,
+    "category": "History"
+  }
+]
