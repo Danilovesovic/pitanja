@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "name": "iPhone 13",
+    "price": 999.99,
+    "available": true,
+    "specification": "A15 Bionic chip, 6.1-inch Super Retina XDR display",
+    "stores": ["Apple Store", "Best Buy", "Amazon"]
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "name": "Galaxy S21",
+    "price": 799.99,
+    "available": false,
+    "specification": "Exynos 2100/Snapdragon 888, 6.2-inch Dynamic AMOLED display",
+    "stores": ["Best Buy", "Amazon"]
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "name": "Pixel 6",
+    "price": 699.99,
+    "available": true,
+    "specification": "Google Tensor chip, 6.4-inch AMOLED display",
+    "stores": ["Google Store", "Best Buy", "Amazon"]
+  },
+  {
+    "id": 4,
+    "brand": "OnePlus",
+    "name": "OnePlus 9",
+    "price": 699.99,
+    "available": true,
+    "specification": "Snapdragon 888, 6.55-inch Fluid AMOLED display",
+    "stores": ["OnePlus Store", "Amazon"]
+  },
+  {
+    "id": 5,
+    "brand": "Sony",
+    "name": "Xperia 1 III",
+    "price": 1099.99,
+    "available": true,
+    "specification": "Snapdragon 888, 6.5-inch 4K HDR OLED display",
+    "stores": ["Sony Store", "Amazon"]
+  }
+]
