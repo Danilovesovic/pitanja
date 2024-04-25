@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "New York City",
+        "population": 8537673,
+        "state": "New York",
+        "averageTemperature": 55
+    },
+    {
+        "id": 2,
+        "name": "Los Angeles",
+        "population": 3979576,
+        "state": "California",
+        "averageTemperature": 72
+    },
+    {
+        "id": 3,
+        "name": "Chicago",
+        "population": 2693976,
+        "state": "Illinois",
+        "averageTemperature": 52
+    },
+    {
+        "id": 4,
+        "name": "Houston",
+        "population": 2320268,
+        "state": "Texas",
+        "averageTemperature": 68
+    },
+    {
+        "id": 5,
+        "name": "Phoenix",
+        "population": 1680992,
+        "state": "Arizona",
+        "averageTemperature": 85
+    },
+    {
+        "id": 6,
+        "name": "Philadelphia",
+        "population": 1584064,
+        "state": "Pennsylvania",
+        "averageTemperature": 54
+    },
+    {
+        "id": 7,
+        "name": "San Antonio",
+        "population": 1547253,
+        "state": "Texas",
+        "averageTemperature": 70
+    },
+    {
+        "id": 8,
+        "name": "San Diego",
+        "population": 1425976,
+        "state": "California",
+        "averageTemperature": 70
+    },
+    {
+        "id": 9,
+        "name": "Dallas",
+        "population": 1343573,
+        "state": "Texas",
+        "averageTemperature": 65
+    },
+    {
+        "id": 10,
+        "name": "San Jose",
+        "population": 1021795,
+        "state": "California",
+        "averageTemperature": 60
+    }
+]
