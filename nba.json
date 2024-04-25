@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "teamName": "Los Angeles Lakers",
+        "arena": "Staples Center",
+        "city": "Los Angeles"
+    },
+    {
+        "id": 2,
+        "teamName": "Golden State Warriors",
+        "arena": "Chase Center",
+        "city": "San Francisco"
+    },
+    {
+        "id": 3,
+        "teamName": "Brooklyn Nets",
+        "arena": "Barclays Center",
+        "city": "Brooklyn"
+    },
+    {
+        "id": 4,
+        "teamName": "Chicago Bulls",
+        "arena": "United Center",
+        "city": "Chicago"
+    },
+    {
+        "id": 5,
+        "teamName": "Boston Celtics",
+        "arena": "TD Garden",
+        "city": "Boston"
+    },
+    {
+        "id": 6,
+        "teamName": "Miami Heat",
+        "arena": "American Airlines Arena",
+        "city": "Miami"
+    },
+    {
+        "id": 7,
+        "teamName": "Toronto Raptors",
+        "arena": "Scotiabank Arena",
+        "city": "Toronto"
+    },
+    {
+        "id": 8,
+        "teamName": "Houston Rockets",
+        "arena": "Toyota Center",
+        "city": "Houston"
+    },
+    {
+        "id": 9,
+        "teamName": "Philadelphia 76ers",
+        "arena": "Wells Fargo Center",
+        "city": "Philadelphia"
+    },
+    {
+        "id": 10,
+        "teamName": "Denver Nuggets",
+        "arena": "Ball Arena",
+        "city": "Denver"
+    }
+]
