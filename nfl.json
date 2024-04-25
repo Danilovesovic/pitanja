@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "teamName": "New England Patriots",
+        "stadium": "Gillette Stadium",
+        "city": "Foxborough"
+    },
+    {
+        "id": 2,
+        "teamName": "Kansas City Chiefs",
+        "stadium": "Arrowhead Stadium",
+        "city": "Kansas City"
+    },
+    {
+        "id": 3,
+        "teamName": "Dallas Cowboys",
+        "stadium": "AT&T Stadium",
+        "city": "Arlington"
+    },
+    {
+        "id": 4,
+        "teamName": "Green Bay Packers",
+        "stadium": "Lambeau Field",
+        "city": "Green Bay"
+    },
+    {
+        "id": 5,
+        "teamName": "Seattle Seahawks",
+        "stadium": "Lumen Field",
+        "city": "Seattle"
+    },
+    {
+        "id": 6,
+        "teamName": "Baltimore Ravens",
+        "stadium": "M&T Bank Stadium",
+        "city": "Baltimore"
+    },
+    {
+        "id": 7,
+        "teamName": "San Francisco 49ers",
+        "stadium": "Levi's Stadium",
+        "city": "Santa Clara"
+    },
+    {
+        "id": 8,
+        "teamName": "Tampa Bay Buccaneers",
+        "stadium": "Raymond James Stadium",
+        "city": "Tampa"
+    },
+    {
+        "id": 9,
+        "teamName": "Los Angeles Rams",
+        "stadium": "SoFi Stadium",
+        "city": "Inglewood"
+    },
+    {
+        "id": 10,
+        "teamName": "Pittsburgh Steelers",
+        "stadium": "Heinz Field",
+        "city": "Pittsburgh"
+    }
+]
