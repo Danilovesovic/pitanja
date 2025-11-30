@@ -1,0 +1,34 @@
+[
+  {
+    "orderId": "ORD-1001",
+    "userEmail": "ana@example.com",
+    "total": 39.0,
+    "currency": "EUR",
+    "status": "paid",
+    "createdAt": "2025-11-20T10:15:00Z"
+  },
+  {
+    "orderId": "ORD-1002",
+    "userEmail": "marko@example.com",
+    "total": 69.0,
+    "currency": "EUR",
+    "status": "pending",
+    "createdAt": "2025-11-21T18:42:10Z"
+  },
+  {
+    "orderId": "ORD-1003",
+    "userEmail": "ivana@example.com",
+    "total": 199.0,
+    "currency": "EUR",
+    "status": "paid",
+    "createdAt": "2025-11-22T08:05:33Z"
+  },
+  {
+    "orderId": "ORD-1004",
+    "userEmail": "stefan@example.com",
+    "total": 99.0,
+    "currency": "EUR",
+    "status": "refunded",
+    "createdAt": "2025-11-23T14:20:00Z"
+  }
+]
