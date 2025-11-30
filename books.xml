@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library updated="2025-11-30">
+    <book id="B101" available="true">
+        <title>JavaScript Foundations</title>
+        <author>Danilo Vešović</author>
+        <year>2024</year>
+        <pages>320</pages>
+        <price currency="EUR">39.00</price>
+        <level>beginner</level>
+        <tags>
+            <tag>javascript</tag>
+            <tag>web</tag>
+            <tag>frontend</tag>
+        </tags>
+    </book>
+
+    <book id="B102" available="false">
+        <title>Modern React</title>
+        <author>Ana Marković</author>
+        <year>2025</year>
+        <pages>280</pages>
+        <price currency="EUR">49.00</price>
+        <level>intermediate</level>
+        <tags>
+            <tag>react</tag>
+            <tag>frontend</tag>
+            <tag>spa</tag>
+        </tags>
+        <rating>
+            <average>4.7</average>
+            <votes>134</votes>
+        </rating>
+    </book>
+
+    <book id="B103" available="true">
+        <title>Node.js in Practice</title>
+        <author>Marko Ilić</author>
+        <year>2023</year>
+        <pages>410</pages>
+        <price currency="EUR">59.00</price>
+        <level>advanced</level>
+        <tags>
+            <tag>node</tag>
+            <tag>backend</tag>
+        </tags>
+    </book>
+
+    <book id="B104" available="true">
+        <title>CSS Layout Mastery</title>
+        <author>Ivana Petrović</author>
+        <year>2022</year>
+        <pages>190</pages>
+        <price currency="EUR">29.00</price>
+        <level>beginner</level>
+    </book>
+
+    <book id="B105" available="false">
+        <title>Fullstack Roadmap</title>
+        <author>Danilo Vešović</author>
+        <year>2025</year>
+        <pages>360</pages>
+        <price currency="EUR">69.00</price>
+        <level>mixed</level>
+        <tags>
+            <tag>frontend</tag>
+            <tag>backend</tag>
+            <tag>career</tag>
+        </tags>
+        <rating>
+            <average>4.9</average>
+            <votes>312</votes>
+        </rating>
+    </book>
+</library>
