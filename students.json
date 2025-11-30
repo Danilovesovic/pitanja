@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fullName": "Ana Marković",
+    "points": 87,
+    "active": true
+  },
+  {
+    "fullName": "Marko Ilić",
+    "id": 2,
+    "active": false,
+    "points": 72
+  },
+  {
+    "id": 3,
+    "points": 94,
+    "fullName": "Ivana Petrović",
+    "active": true
+  },
+  {
+    "id": 4,
+    "active": true,
+    "fullName": "Stefan Jovanović",
+    "points": 65
+  },
+  {
+    "id": 5,
+    "fullName": "Milica Janković",
+    "points": 100,
+    "active": false
+  }
+]
