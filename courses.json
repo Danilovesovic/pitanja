@@ -1,0 +1,30 @@
+[
+  {
+    "code": "JS101",
+    "title": "Uvod u JavaScript",
+    "lessons": 24,
+    "difficulty": "beginner",
+    "published": true
+  },
+  {
+    "code": "JS201",
+    "title": "Napredni JavaScript",
+    "lessons": 32,
+    "difficulty": "intermediate",
+    "published": false
+  },
+  {
+    "code": "REACT101",
+    "title": "React osnove",
+    "lessons": 28,
+    "difficulty": "beginner",
+    "published": true
+  },
+  {
+    "code": "NODE301",
+    "title": "Backend sa Node.js",
+    "lessons": 40,
+    "difficulty": "advanced",
+    "published": true
+  }
+]
