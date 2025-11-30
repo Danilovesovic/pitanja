@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Kako učiti programiranje",
+    "author": "Danilo Vešović",
+    "published": true,
+    "stats": {
+      "views": 1280,
+      "likes": 56
+    },
+    "tags": ["learning", "mindset", "beginners"]
+  },
+  {
+    "id": 2,
+    "title": "Zašto je JavaScript svuda",
+    "author": "Ana Marković",
+    "published": false,
+    "stats": {
+      "views": 540,
+      "likes": 21
+    }
+  },
+  {
+    "id": 3,
+    "title": "Frontend vs Backend",
+    "published": true,
+    "tags": ["frontend", "backend", "career"]
+  },
+  {
+    "id": 4,
+    "title": "Šta je API i kako radi",
+    "author": "Marko Ilić",
+    "published": true
+  }
+]
